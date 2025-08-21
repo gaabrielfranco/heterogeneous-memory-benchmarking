@@ -1,0 +1,27 @@
+allocatin parameters
+malloc done
+copying parameters
+parameters_num 3
+opt_num 4
+parameters[0]: 0x3af92940
+0x3af92808=opt[1]: 0x3af92940
+parameters[1]: 0x3af92960
+0x3af92810=opt[2]: 0x3af92960
+parameters[2]: 0x3af92980
+0x3af92818=opt[3]: 0x3af92980
+0x3af92800=opt[0]: 0x482b70
+0x3af92808=opt[1]: 0x3af92940
+0x3af92810=opt[2]: 0x3af92960
+0x3af92818=opt[3]: 0x3af92980
+starting to parse opts
+case i, optarg 500
+case a, optarg read
+case m, optarg 256
+
+Job completed
+period start: 25430267116669 clock cycles	 254308.930478870 seconds 	-	 period end: 25430271545717 clock cycles	 254308.974771105 seconds
+job end: 25430271545403 clock cycles	 254308.974769525 seconds
+job deadline: 25430271545717 clock cycles	 254308.974771105 seconds 	-	deadline status:1 (1=met)
+job duration: 4428734 clock cycles	 0.044290655 seconds	-	utilization:1	-	density:1
+
+Extra benchmark metric: 2822.498779

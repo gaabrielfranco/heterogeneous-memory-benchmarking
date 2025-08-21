@@ -1,0 +1,21 @@
+== Displaying results information ==
+=== Current Experiment ===
+OBSERVED:
+	 Map Type: MAP_CACHE
+	 Access Type: ACCCESS_BW_WRITE
+	 Buffer Size: 0x00400000
+	 Pool ID: 3
+INTERFERENCE:
+	 Map Type: MAP_CACHE
+	 Access Type: ACCESS_BW_READ
+	 Buffer Size: 0x00400000
+	 Pool ID: 3
+
+USAGE: Provide new experiment definition with format:
+<OBS map type: c/n> <OBS access type: r/w/b/s/x/c/l/m> <OBS buffer size> <OBS pool ID> <INT map type: c/n> <INT access type: r/w/b/s/x/c/l/m> <INT buffer size> <INT pool ID>
+==========================
+RESULTS:
+Active Cores: 0; Start (ns): 98846115909681; End (ns): 98846136097418; Diff (ns): 20187737; Bytes R: 20971520; Bytes W: 20971520
+Active Cores: 1; Start (ns): 98846270288656; End (ns): 98846301655370; Diff (ns): 31366714; Bytes R: 20971520; Bytes W: 20971520
+Active Cores: 2; Start (ns): 98846514482995; End (ns): 98846555508645; Diff (ns): 41025650; Bytes R: 20971520; Bytes W: 20971520
+Active Cores: 3; Start (ns): 98846762733570; End (ns): 98846812796192; Diff (ns): 50062622; Bytes R: 20971520; Bytes W: 20971520
